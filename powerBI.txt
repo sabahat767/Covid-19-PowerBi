@@ -1,0 +1,6 @@
+published linked:
+
+https://app.powerbi.com/view?r=eyJrIjoiMGRiZDliNzMtMTk3Ni00MGUxLTk1M2ItOGVkMzg1ZGI1ZTExIiwidCI6IjkxZGZlY2VjLTZlMzItNDBiMS1hNzRhLTI4M2ViN2IxZWI2YyIsImMiOjl9
+
+html tag:
+<iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGRiZDliNzMtMTk3Ni00MGUxLTk1M2ItOGVkMzg1ZGI1ZTExIiwidCI6IjkxZGZlY2VjLTZlMzItNDBiMS1hNzRhLTI4M2ViN2IxZWI2YyIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
